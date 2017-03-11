@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/getcarter1/getcarter1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-[Link](https://github.com/getcarter1/Bluetooth-Mood-Light) and ![Image](src)
+[Home](https://github.com/getcarter1)
+[Mood Light](https://github.com/getcarter1/Bluetooth-Mood-Light) 
